@@ -1,0 +1,9 @@
+*.h5
+*.keras
+*.pt
+*.pkl
+*.zip
+*.tar
+*.ckpt
+*.npy
+.DS_Store
