@@ -1,3 +1,6 @@
 [submodule "Baseline_Model"]
 	path = Baseline_Model
 	url = https://github.com/Nahuyiur/NUS-Baseline-car.git
+[submodule "Final_Model"]
+	path = Final_Model
+	url = https://github.com/Nahuyiur/NUS-Final-car.git
